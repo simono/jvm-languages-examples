@@ -2,7 +2,7 @@
 
 This Repository contains Code Examples for my Talk ["Frischer Wind für die JVM –
 sechs Programmiersprachen im
-Vergleich"](https://speakerdeck.com/simono/frischer-wind-fur-die-jvm-sechs-programmiersprachen-im-vergleich)
+Vergleich"](https://speakerdeck.com/simono/frischer-wind-fur-die-jvm-sechs-programmiersprachen-im-vergleich-javaland)
 (available in German only).
 
 ## Presented Languages:
